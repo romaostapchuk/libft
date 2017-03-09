@@ -32,7 +32,7 @@ ft_isprint.c      ft_memmove.c      ft_strclr.c       ft_strmapi.c\
 ft_tolower.c 	  ft_itoa.c         ft_memset.c       ft_strcmp.c\
 ft_strncat.c      ft_toupper.c 		ft_lstadd.c       ft_putchar.c\
 ft_strcpy.c       ft_strncmp.c 		ft_lstdel.c       ft_putchar_fd.c\
-ft_strdel.c       ft_strncpy.c
+ft_strdel.c       ft_strncpy.c 		ft_get_next_line.c
 
 SRC_O = $(SRC_C:.c=.o)
 
